@@ -1,0 +1,13 @@
+{
+    "name": "yui-ezic/discord-proxy",
+    "authors": [
+        {
+            "name": "YuiEzic",
+            "email": "mishan221199@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^7.3",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
